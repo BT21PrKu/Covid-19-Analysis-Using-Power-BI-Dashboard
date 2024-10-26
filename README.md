@@ -10,6 +10,7 @@ This project provides an analysis of COVID-19 data, focusing on cases and deaths
 - [Data Preparation](#data-preparation)
 - [Analysis and Results](#analysis-and-results)
 - [Power BI Visualizations](#power-bi-visualizations)
+- [Preview of Dashboard](#Image-of-the-dashboard)
 - [Conclusions](#conclusions)
 
 ## Data Sources
@@ -51,7 +52,7 @@ The data was visualized using Power BI to offer an interactive experience with t
    - Total Cases: Line graph of cumulative cases over time.
    - New Cases: Line graph of new daily cases over time for selected countries.
 
-##Image of the dashboard
+## Image of the dashboard
 
 ![image](https://github.com/user-attachments/assets/b9357493-1c85-4f20-a6e3-5d2d5d44a6fd)
 
