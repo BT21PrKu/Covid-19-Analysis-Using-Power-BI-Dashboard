@@ -52,6 +52,7 @@ The data was visualized using Power BI to offer an interactive experience with t
    - New Cases: Line graph of new daily cases over time for selected countries.
 
 ##Image of the dashboard
+
 ![image](https://github.com/user-attachments/assets/b9357493-1c85-4f20-a6e3-5d2d5d44a6fd)
 
 
